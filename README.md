@@ -9,7 +9,7 @@ pandas, xlsxwriter, plotly, dash, kaleido
 
 ## 実行
 ```
-python start.py
+python app.py
 ```
 
 ***
