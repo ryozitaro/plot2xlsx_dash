@@ -652,7 +652,10 @@ class Plot:
             {"display": "none"},
         )
 
+    def run(self, debug=None):
+        self.app.run(debug=debug)
 
-plot = Plot()
 
-plot.app.run_server(debug=True)
+if __name__ == "__main__":
+    plot = Plot()
+    plot.run(debug=True)
