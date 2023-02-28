@@ -14,4 +14,7 @@ python start.py
 
 ***
 
+![1](https://user-images.githubusercontent.com/126104168/221553747-91ad4e5f-f2f3-442f-af94-4454e88778b3.png)
+
+
 本来HTMLやJavaScriptで書くような部分をDashで無理やり書いていたり、Dashの「各Outputは複数のメソッドに書くことはできない」といった制約のなかで書くのに苦慮しているので、正直言って見やすいコードではないです。🥺
