@@ -204,7 +204,7 @@ class XlsxOut:
         self.ws = self.wb.add_worksheet()
         ws = self.ws
 
-        ws.write("A1", sheet["a1"])
+        ws.write("A1", sheet.get("a1"))
 
         ws.write("A2", "P波")
         ws.insert_image("A3", p_bmp, {"x_scale": 0.8, "y_scale": 0.8})
