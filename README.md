@@ -1,6 +1,6 @@
 # plot2xlsx_dash
 
-これは[plot2xlsx_tk](https://github.com/zbwtk/plot2xlsx_tk)をDashで再構築したもので、GUI化した点と、最大シート数が5に増えてる以外に違いはありません。
+これは[plot2xlsx_tk](https://github.com/ryozitaro/plot2xlsx_tk)をDashで再構築したもので、GUI化した点と、最大シート数が5に増えてる以外に違いはありません。
 ***
 
 ## 必要なもの
